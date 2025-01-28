@@ -41,3 +41,32 @@ Average Sales: $80
 Number of Product: 15,000
 Skin Type: 5
 Number of Brand: 41
+
+### Data Collection
+The dataset for this analysis was provided gotten from Kaggle,an organization that supplies educational datasets for learning and training purposes. The data was provided in CSV format, making it accessible for analysis.
+
+
+### Data Manipulation
+Data Cleaning:
+
+Checked for Spelling Errors, Duplicate Values, and Blank Cells: Ensured data quality by correcting any spelling errors, removing duplicate entries, and addressing missing values.
+Standardization: Used find and replace to standardize certain fields:
+Changed the headings from improper case to a proper case and rewtote them to eraze errors and input infix(es) where necessary.
+
+### Data Transformation:
+
+Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to date format.
+Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
+
+
+### Tools used
+Microsoft Excel. 
+
+### Dashboard Overview
+
+![COSMETICS ANALYSIS](https://github.com/user-attachments/assets/c96a2c84-cf00-4174-859a-43135db85003)
+
+
+### Data Analysis and Insights Generation
+Customer Insight: To gain a deeper understanding of customer demographics and purchasing patterns to enhance customer segmentation and personalize marketing efforts.
+
