@@ -70,3 +70,40 @@ Microsoft Excel.
 ### Data Analysis and Insights Generation
 Customer Insight: To gain a deeper understanding of customer demographics and purchasing patterns to enhance customer segmentation and personalize marketing efforts.
 
+
+![Most used ingredients and frequency](https://github.com/user-attachments/assets/efb52016-3df9-4e12-b493-8e3b8a0a1d2a)
+
+#### INSIGHTS
+### Ingredient Insights and Usage Frequency
+1. Retinol is in high demand: With 2,180 mentions, retinol is the most used ingredient, indicating its popularity and effectiveness.
+2. Glycerin and Vitamin C are close seconds: Glycerin (2,174) and Vitamin C (2,168) are also widely used, highlighting their importance in skincare products.
+3. Natural ingredients are popular: Shea butter (2,148) and Aloe vera (2,091) are among the top 6 most used ingredients, indicating a strong demand for natural and organic products.
+4. Hyaluronic Acid is underutilized: Despite its benefits, Hyaluronic Acid is the least used ingredient, suggesting an opportunity for brands to incorporate it into their products. 
+### Usage Frequency
+1. Daily usage is most common: With 3,668 mentions, daily usage is the most frequent, followed closely by monthly (3,781) and weekly (3,757) usage. 2. *Occasional usage is surprisingly high
+2. Occasional usage (3,974) is the highest, indicating that many customers use these products sporadically.
+
+
+![Revenue3](https://github.com/user-attachments/assets/e534e646-1bec-48c0-8b94-30cbf078b938)   ![Revnue by gender](https://github.com/user-attachments/assets/fa03c8ca-3c9f-46b7-9f0b-6d8211b5725b)      
+![Revenue 2](https://github.com/user-attachments/assets/f3351468-caa8-49ed-a90e-ae5b7125ced4)
+
+![Cosmetics Revenue](https://github.com/user-attachments/assets/87e2c024-92a5-4a5b-b515-6ef3ffd166b6)
+
+### Revenue by gender
+Male customers drive revenue: Contrary to expectations, male customers generate more revenue than female customers, with unisex products generating the least revenue.
+### Regional Revenue
+USA and Italy lead in revenue: The USA and Italy are the top two countries in terms of revenue, followed closely by South Korea and Australia. 
+### Revenue by size of products
+100ml and 30ml products are bestsellers: Products with 100ml and 30ml sizes generate the most revenue, indicating a preference for these sizes among customers.
+### Revenue by packaging
+Jar and Bottle packaging are most popular: Jar and Bottle packaging types generate the most revenue, followed closely by Stick and Spray packaging. 
+
+### Recommendations
+1. Develop retinol-based products: Given the high demand for retinol, brands should consider developing products that feature this ingredient.
+2. Incorporate natural ingredients*: Brands should consider incorporating natural ingredients like shea butter and Aloe vera into their products to cater to the growing demand for natural and organic products.
+3. Optimize product sizes and packaging*: Brands should consider offering products in 100ml and 30ml sizes, and use Jar and Bottle packaging types to maximize revenue.
+4. Target male customers: Brands should consider targeting male customers, who generate more revenue than female customers.
+
+### CONCLUSION
+Conclusion: The data provides valuable insights into the skincare industry, highlighting the importance of retinol, natural ingredients, and optimizing product sizes and packaging. By developing products that cater to these trends and targeting male customers, brands can increase revenue and stay competitive in the market.
+
